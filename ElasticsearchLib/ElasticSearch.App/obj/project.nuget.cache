@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "g297nS8U7cZg+wDMq5PTG3Ul9mHIpqZMEWG9TdLQxgjPmUbDNJo+iqWxxJ9T8ZqhrQFbPJos8ICwFpq0RibSYg==",
+  "success": true,
+  "projectFilePath": "D:\\Files\\Code\\CS\\Elasticsearch\\ElasticsearchLib\\ElasticSearch.App\\ElasticSearch.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tolik\\.nuget\\packages\\elasticsearch.net\\7.17.2\\elasticsearch.net.7.17.2.nupkg.sha512",
+    "C:\\Users\\tolik\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\tolik\\.nuget\\packages\\nest\\7.17.2\\nest.7.17.2.nupkg.sha512",
+    "C:\\Users\\tolik\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\tolik\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

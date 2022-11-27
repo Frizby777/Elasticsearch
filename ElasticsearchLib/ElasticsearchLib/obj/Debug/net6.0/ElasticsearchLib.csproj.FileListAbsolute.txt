@@ -1,0 +1,12 @@
+D:\Files\Code\CS\ElasticsearchLib\ElasticsearchLib\bin\Debug\net6.0\ElasticsearchLib.deps.json
+D:\Files\Code\CS\ElasticsearchLib\ElasticsearchLib\bin\Debug\net6.0\ElasticsearchLib.dll
+D:\Files\Code\CS\ElasticsearchLib\ElasticsearchLib\bin\Debug\net6.0\ElasticsearchLib.pdb
+D:\Files\Code\CS\ElasticsearchLib\ElasticsearchLib\obj\Debug\net6.0\ElasticsearchLib.csproj.AssemblyReference.cache
+D:\Files\Code\CS\ElasticsearchLib\ElasticsearchLib\obj\Debug\net6.0\ElasticsearchLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files\Code\CS\ElasticsearchLib\ElasticsearchLib\obj\Debug\net6.0\ElasticsearchLib.AssemblyInfoInputs.cache
+D:\Files\Code\CS\ElasticsearchLib\ElasticsearchLib\obj\Debug\net6.0\ElasticsearchLib.AssemblyInfo.cs
+D:\Files\Code\CS\ElasticsearchLib\ElasticsearchLib\obj\Debug\net6.0\ElasticsearchLib.csproj.CoreCompileInputs.cache
+D:\Files\Code\CS\ElasticsearchLib\ElasticsearchLib\obj\Debug\net6.0\ElasticsearchLib.dll
+D:\Files\Code\CS\ElasticsearchLib\ElasticsearchLib\obj\Debug\net6.0\refint\ElasticsearchLib.dll
+D:\Files\Code\CS\ElasticsearchLib\ElasticsearchLib\obj\Debug\net6.0\ElasticsearchLib.pdb
+D:\Files\Code\CS\ElasticsearchLib\ElasticsearchLib\obj\Debug\net6.0\ref\ElasticsearchLib.dll
